@@ -1,5 +1,17 @@
-# Getting Started with Create React App
+# Tip Calculator
+This React component, designed to calculate individual totals for bills, tip percentages, and numbers of people, serves as an effective tool for splitting bills accurately among friends and colleagues. 
+This intuitive app features three simple inputs (Bill, Tip Percentage, and Number of People). Facilitating ease of use, this component is embedded with Material UI components for an intuitive user experience. The functionality is robust, reactively update the total for each person in real-time. With TypeScript at its core, the component offers robust type checking and clean, readable code. Jest is employed for testing, ensuring seamless user interactions and precise calculations. Overall, this comprehensive React component is designed to deliver a seamless user experience, allowing for effortless bill splitting and precise calculations for an accurate split.
 
+This exercise:
+- Started with create-react-app
+- Typescript
+- Use Material Ui
+- Some tests with Jest
+
+
+==
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
